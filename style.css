@@ -1,0 +1,34 @@
+.calcBody {
+    background-color: rgb(213, 207, 247);
+}
+
+input {
+    width: 100%;
+}
+
+h1 {padding: 20px;
+    text-align: center;
+}
+
+.container {
+    margin-top: 200px;
+}
+
+input {
+    margin-bottom: 30px;
+}
+label{font-size: 20px;}
+button {
+    width: 80%;
+    background-color: rgba(49, 4, 107, 0.52);
+    margin: auto;
+    display: block;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: white;
+   border: none;
+   border-radius: 15px;
+}
+button:hover{ background-color: rgba(29, 3, 77, 0.69);}
+.tota{font-size: 30px;}
+#total{font-size: 30px;}
